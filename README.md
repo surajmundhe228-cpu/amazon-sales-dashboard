@@ -1,35 +1,58 @@
-# 📊 Amazon Sales Dashboard – Power BI
+# 📊 Amazon Sales Dashboard (Power BI)
 
-## 📌 Project Overview  
-This project is an **interactive Power BI dashboard** created to analyze **Amazon sales data**.  
-The dashboard provides insights into sales performance, customer behavior, and product trends to help make data-driven decisions.  
+This project presents an **interactive Power BI dashboard** that visualizes Amazon sales data.  
+It helps analyze sales performance, discounts, customer ratings, and category-wise insights.  
 
-## 🛠️ Tools Used  
-- **Power BI** – For data cleaning, visualization, and dashboard creation  
-- **Excel/CSV Data** – Amazon sales dataset  
+---
 
-## 📷 Dashboard Preview  
-![Amazon Sales Dashboard Screenshot](https://1drv.ms/i/c/6faf740d3caed963/Eb3bDnIN6BlIhPnzCOS4SqUBgP2Y5yRaD6PPZvk9smndQQ?e=RYJAqU)  
-  
+## 🚀 Key Features
+- **KPI Metrics**  
+  - Total Sales: ₹77,990 (+55.98% over goal)  
+  - Average Rating: ⭐ 5.0  
+  - Quantity Sold: 1,465 (+22.08% over goal)  
+  - Loss Due to Discounts: ₹61,910  
+  - Avg. Selling Price: ₹3.12K  
 
-## 🔑 Key Features  
-- 📦 **Sales Performance** – Track total revenue, orders, and profit  
-- 🌍 **Geographical Insights** – Sales distribution by region  
-- 📈 **Trends** – Monthly/Yearly sales trends  
-- 🛍️ **Product Analysis** – Best-selling categories and items  
-- 👥 **Customer Insights** – Customer segmentation by orders and spending  
+- **Category Analysis**  
+  - Sales by product categories (Electronics, Computers & Accessories, Home & Kitchen, etc.)  
+  - Quantity distribution across categories  
 
-## 🚀 How to Use  
-1. Download the `.pbix` file from this repo  
-2. Open it in **Power BI Desktop**  
-3. Explore and interact with the dashboard  
+- **Discount Impact**  
+  - Scatter plot showing how discounts affect revenue  
 
-## 📂 Files in Repository  
-- `Amazon Sales Dashboard.pbix` → Power BI file  
+- **Customer Ratings Overview**  
+  - Histogram of customer ratings distribution  
+
+---
+
+## 📂 Project Structure
+- `Amazon sales dashboard.pbix` → Power BI file containing the dashboard  
 - `screenshot.png` → Dashboard preview  
-- `README.md` → Project details  
 
-## ✨ Future Improvements  
-- Add predictive analysis for sales forecasting  
-- Enhance customer segmentation  
-- Automate data refresh from live sources  
+---
+
+## 🛠️ Tools & Technologies
+- **Power BI** – Data visualization  
+- **Amazon Sales Dataset** (sample dataset)  
+
+---
+
+## 📸 Dashboard Preview
+![Dashboard Screenshot](Screenshot%202025-08-26%20192613.png)
+
+---
+
+## 📌 Insights
+- Higher discounts impact revenue significantly.  
+- Computers & Accessories category contributes the largest share of quantity sold.  
+- Customer satisfaction is high with majority ratings near ⭐4–5.  
+- Achieved sales goals with strong performance across categories.  
+
+---
+
+## 🧑‍💻 Author
+**Suraj Mundhe**  
+- GitHub: [@surajmundhe228-cpu](https://github.com/surajmundhe228-cpu)
+
+---
+
